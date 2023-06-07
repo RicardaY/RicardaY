@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋  
 
-- :orange_book: Focusing on Swift & iOS  
+- :orange_book: Focusing on C++ & Python  
 
 - :hammer: Creator of applications and frameworks  
 
